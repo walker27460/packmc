@@ -1,0 +1,25 @@
+{
+  "format_version": 1,
+  "header": {
+    "name": "example Resources",
+    "description": "",
+    "uuid": "7731cec6-73d6-4189-942a-769396160932",
+    "version": [
+      1,
+      0,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "description": "Resources for example",
+      "type": "resources",
+      "uuid": "c43fff63-7417-4e6f-adca-01326c2ce6d7",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

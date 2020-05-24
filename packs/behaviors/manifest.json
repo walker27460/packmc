@@ -1,0 +1,35 @@
+{
+  "format_version": 1,
+  "header": {
+    "name": "example Behaviors",
+    "description": "",
+    "uuid": "b4036b68-78e7-4899-86fa-31d25bbf7d4f",
+    "version": [
+      1,
+      0,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "description": "behaviours for example",
+      "type": "client_data",
+      "uuid": "fc803a14-3779-4f0b-8131-89a96f119f96",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ],
+  "dependencies": [
+    {
+      "uuid": "7731cec6-73d6-4189-942a-769396160932",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}
